@@ -5,18 +5,7 @@
     <link>https://gorodri.dev/</link>
     <description>Recent content on GoRodri</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2023 18:32:16 +0100</lastBuildDate><atom:link href="https://gorodri.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://gorodri.dev/posts/my-first-post/</link>
-      <pubDate>Mon, 20 Nov 2023 18:32:16 +0100</pubDate>
-      
-      <guid>https://gorodri.dev/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://gorodri.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://gorodri.dev/about/</link>
