@@ -1,11 +1,11 @@
 baseURL = 'https://gorodri.dev/'
 languageCode = 'en-us'
 title = 'GoRodri'
-theme = 'PaperMod'
+theme = 'PaperMod/'
 
 [params]
   description = "A blog by Rodrigo Tavares, covering a wide range of topics from Linux Containers and Kubernetes to politics, economy, and philosophy. Opinions are my own."
-  author = "Rodrigo Tavares"
+  author = "Rodrigo Tavares"A 
   keywords = ["Kubernetes", "OpenShift", "Linux Containers", "Podman"]
   favicon = "images/favicon.ico"
 
