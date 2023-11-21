@@ -1,4 +1,4 @@
-baseURL = "https://gorodri.dev/"
+baseURL = "https://gorodri.dev/public"
 languageCode = "en-us"
 title = "GoRodri"
 theme = "PaperMod"
